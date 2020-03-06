@@ -1,2 +1,2 @@
 # ProjectStealth
-Repository for game prototype used in my masters thesis
+Repository for game prototype used in my master's thesis
